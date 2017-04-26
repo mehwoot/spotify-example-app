@@ -1,4 +1,4 @@
-# spotify-example-app
+# Spotify Example App
 Test app using spotify API.  Prebuilt version hosted at http://hamster-527.getforge.io/
 
 ## Building
